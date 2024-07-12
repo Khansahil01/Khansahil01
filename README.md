@@ -1,5 +1,5 @@
 # 💫 About Me:
-practical experience in web development and database administration as a <br>Frontend Developer, I gained experience through academic projects and internships. Seeking a collaborative team environment <br>to leverage my skills in Web Development. Proficient in JavaScript, Python, and C++, with expertise in crafting responsive and <br>innovative websites using HTML, CSS, React, and Node.js. Experienced in MySQL and PHP for effective database <br>management. Eager to apply my technical abilities and contribute to impactful projects.
+Enthusiastic Computer Engineering graduate with practical experience in web development and database administration as a <br>Frontend Developer, I gained experience through academic projects and internships. Seeking a collaborative team environment <br>to leverage my skills in Web Development. Proficient in JavaScript, Python, and C++, with expertise in crafting responsive and <br>innovative websites using HTML, CSS, React, and Node.js. Experienced in MySQL and PHP for effective database <br>management. Eager to apply my technical abilities and contribute to impactful projects.
 
 
 ## 🌐 Socials:
